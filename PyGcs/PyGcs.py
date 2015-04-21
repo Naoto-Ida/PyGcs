@@ -18,7 +18,6 @@ class PyGcs:
         self.set_api_key("")
         self.set_cx_id("")
         self.set_query("")
-        pass
 
     def set_api_key(self, api_key):
         self.api_key = api_key
